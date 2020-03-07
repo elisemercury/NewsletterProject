@@ -13,7 +13,7 @@ package_installer.py ---- code for automated installation of requiered Python pa
 
 URLs_finance.json	------- list of all URLs to be scraped by newsletter.py (links can be changed/replaced anytime)
 
-folder: logos	----------- logos used by newsletter.py for the HTML file
+folder: logos	------------ logos used by newsletter.py for the HTML file
 
 folder: templates	------- HTML template used by newsletter.py
 
