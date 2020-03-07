@@ -42,7 +42,7 @@ Installation of all required packages can be automated with the included "packag
 - In CMD in your Python installation folder: python package_installer.py
 - In Python: import package_installer
 
-This is a list of all packages used and it's corresponding version:
+This is a list of all packages used and the corresponding versions:
 
 pip install feedparser / 5.2.1
 
